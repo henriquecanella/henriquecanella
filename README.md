@@ -1,4 +1,8 @@
-## the end of an era 
+### 👨‍💻 Ph.D. Student @ UFSCAR
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/henriquecanella/henriquecanella/blob/main/cat.gif?raw=true');]{x0000}$}
+Currently pursuing my doctorate in **Computer Science** at the **Federal University of São Carlos**, where I study how to make **game development** more robust through automated **testing**.
+
+**🛠️ Current Stack:**
+- **Languages:** C, C#, Rust, Python, Javascript, GDScript
+- **Game Dev:** Unity, Godot, Raylib, OpenGL
+- **Testing:** Unit Testing, Integration Testing, TDD, Automation Frameworks
